@@ -1,6 +1,5 @@
 export type AppStackParamList = {
   Home: undefined;
-  NotFound: undefined;
 };
 
 export type AuthStackParamList = {
